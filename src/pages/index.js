@@ -1,56 +1,19 @@
-import Head from 'next/head'
+import Head from 'next/head';
 
 export default function Home() {
   return (
     <div className='container'>
       <Head>
-        <title>Website</title>
+        <title>CSCI 1000 Github Project</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
       <main>
-        <h1 className='title'>Congratulations! You've set up your webapp!</h1>
-
-        <p className='description'>
-          Get started by editing <code>src/pages/index.js</code> to be your
-          project home page.
-        </p>
-        <p className='description2'>
-          Next, each team member will create their own about me file in the
-          pages directory:{' '}
-        </p>
-        <code>src/page/teamMemberName.js</code>
+        <h1 className='title'>CSCI 1000 Github Project</h1>
 
         <div className='grid'>
-          <a href='/ronBurgundy' className='card'>
-            <h3>Example About Me Page &rarr;</h3>
-            <p>Click here to navigate to an example page</p>
-          </a>
-          <a
-            href='https://github.com/wangalec/website-template'
-            className='card'>
-            <h3>Project Resources&rarr;</h3>
-            <p>
-              Return to the Github for resources on creating your own website!
-            </p>
-          </a>
-          <a
-            href='https://nextjs.org/learn/foundations/about-nextjs'
-            className='card'>
-            <h3>Next.js&rarr;</h3>
-            <p>Click here to learn more about Next.js</p>
-          </a>
-          <a href='https://blog.hubspot.com/website/html' className='card'>
-            <h3>HTML and CSS &rarr;</h3>
-            <p>Click here to learn more about HTML and CSS</p>
-          </a>{' '}
-          <a href='https://tailwindcss.com/' className='card'>
-            <h3>Tailwind css&rarr;</h3>
-            <p>Click here to learn more about tailwind css</p>
-          </a>
-          <a href='https://styled-components.com/' className='card'>
-            <h3>Styled Components&rarr;</h3>
-            <p>Click here to learn more about Styled Components</p>
+          <a href='/matayayKaruna' className='card'>
+            <h3>Matayay Karuna &rarr;</h3>
           </a>
         </div>
       </main>
