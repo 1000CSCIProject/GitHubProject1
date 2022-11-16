@@ -12,7 +12,7 @@ export default function examplePage() {
             <h1 className='title'>G'day mate! My name is Jevan Wiltz.</h1>
           </div>
           <Image
-            className='picture'
+            className='pic'
             src={jevan}
             alt='Jevan Wiltz'
           />
@@ -25,7 +25,7 @@ export default function examplePage() {
             just coming to talk to me if you see me! I'd be more than happy to chat! 
           </p>
 
-          <a className='btn' href='/'>
+          <a className='button' href='/'>
             <p> Return to Menu</p>
           </a>
         </main>
