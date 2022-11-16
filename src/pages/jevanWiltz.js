@@ -1,10 +1,10 @@
 import Image from 'next/image';
-import jevan from 'C:\Users\Mali W\OneDrive\Pictures\Saved Pictures\IMG_3045.JPG'
+import jevan from '../public/jevanWiltz.jpg'
 
 export default function examplePage() {
     return (
       <div className='container'>
-        <title>Jevan</title>
+        <title>Jevan Wiltz</title>
         <link rel='icon' href='/favicon.ico' />
 
         <main>
