@@ -16,6 +16,12 @@ export default function Home() {
             <h3>Matayay Karuna &rarr;</h3>
           </a>
         </div>
+
+        <div className='grid'>
+          <a href='/hassan_alanazi' className='card'>
+            <h3>Hassan Alanazi &rarr;</h3>
+          </a>
+        </div>
       </main>
 
       <footer>
