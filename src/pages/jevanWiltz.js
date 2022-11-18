@@ -50,12 +50,13 @@ export default function examplePage() {
             align-items: center;
           }
           .title {
-            margin: 0;
+            margin: 8;
             line-height: 1.15;
-            font-size: 4rem;
+            font-size: 8rem;
+            align-items: center;
           }
           .underline {
-            /* border-bottom: solid black; */
+            /* border-bottom: solid gray; */
             margin-bottom: 1.5rem;
           }
           .description {
@@ -64,8 +65,8 @@ export default function examplePage() {
             text-align: center;
           }
           .pic {
-            height: 450px;
-            width: 450px;
+            height: 400px;
+            width: 400px;
           }
           .button {
             /* margin: .5rem; */
@@ -81,7 +82,7 @@ export default function examplePage() {
           .button:hover,
           .button:focus,
           .button:active {
-            color: #0070f3;
+            color: #D1E2C4;
             border-color: #0070f3;
           }
           .button p {
@@ -89,7 +90,7 @@ export default function examplePage() {
             font-weight: 600;
           }
           code {
-            background: #fafafa;
+            background: #F9EAC2;
             border-radius: 5px;
             padding: 0.75rem;
             font-size: 1.1rem;
