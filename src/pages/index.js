@@ -11,6 +11,12 @@ export default function Home() {
       <main>
         <h1 className='title'>CSCI 1000 Github Project</h1>
 
+    <div className='grid'>
+          <a href='/jevanWiltz' className='card'>
+            <h3>Jevan Wiltz &rarr;</h3>
+          </a>
+        </div>
+    
         <div className='grid'>
           <a href='/matayayKaruna' className='card'>
             <h3>Matayay Karuna &rarr;</h3>
