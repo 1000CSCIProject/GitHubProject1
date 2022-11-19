@@ -23,6 +23,12 @@ export default function Home() {
           </a>
         </div>
     
+    <div className='grid'>
+          <a href='/charlotteHauke' className='card'>
+            <h3>Charlotte Hauke &rarr;</h3>
+          </a>
+        </div>
+    
         <div className='grid'>
           <a href='/matayayKaruna' className='card'>
             <h3>Matayay Karuna &rarr;</h3>
