@@ -16,6 +16,12 @@ export default function Home() {
             <h3>Jevan Wiltz &rarr;</h3>
           </a>
         </div>
+        
+        <div className='grid'>
+          <a href='/quinnTurner' className='card'>
+            <h3>Quinn Turner &rarr;</h3>
+          </a>
+        </div>
     
         <div className='grid'>
           <a href='/matayayKaruna' className='card'>
